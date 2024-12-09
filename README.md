@@ -1,5 +1,5 @@
 ### Hi there :rocket:
-Eu sou o Guilherme Risso, sou um progamador apaixonado pela tecnologia sempre buscando novas experiências e conhecimentos, atualmente estou aprendendo e criando projetos com:
+Eu sou o Guilherme Risso, sou um progamador | desenvolvedor Full Stack apaixonado pela tecnologia sempre buscando novas experiências e conhecimentos, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
