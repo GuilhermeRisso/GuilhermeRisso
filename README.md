@@ -8,7 +8,7 @@ I'm a programmer | Full Stack developer passionate about technology always looki
 
 
 ## My Skills:
-![HTMLl](https://github.com/GuilhermeRisso/imagens/blob/main/html.png?raw=true)  ![Css](https://github.com/GuilhermeRisso/imagens/blob/main/css.png?raw=true)  ![JavaScript](https://github.com/GuilhermeRisso/imagens/blob/main/javascript.png?raw=true)  ![React](https://github.com/GuilhermeRisso/imagens/blob/main/react.png?raw=true) ![Node.js](https://github.com/GuilhermeRisso/imagens/blob/main/node-js.png?raw=true)
+![HTMLl](https://github.com/GuilhermeRisso/imagens/blob/main/html.png?raw=true)  ![Css](https://github.com/GuilhermeRisso/imagens/blob/main/css.png?raw=true)  ![JavaScript](https://github.com/GuilhermeRisso/imagens/blob/main/javascript.png?raw=true)  ![React](https://github.com/GuilhermeRisso/imagens/blob/main/react.png?raw=true) ![Node.js](https://github.com/GuilhermeRisso/imagens/blob/main/node-js.png?raw=true) ![Figma](https://github.com/GuilhermeRisso/imagens/blob/main/figma.png?raw=true)
 ## Studyding:
 ![JavaScript](https://github.com/GuilhermeRisso/imagens/blob/main/javascript.png?raw=true)  ![React](https://github.com/GuilhermeRisso/imagens/blob/main/react.png?raw=true) ![Node.js](https://github.com/GuilhermeRisso/imagens/blob/main/node-js.png?raw=true)
 
